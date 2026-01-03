@@ -23,5 +23,5 @@ This project is beginner-friendly and demonstrates how to perform database opera
 ## ▶️ Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-crud-app.git
+git clone https://github.com/babaralijamali/python-crud-app-cli.git
 cd python-crud-app
