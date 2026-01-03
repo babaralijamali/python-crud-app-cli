@@ -25,3 +25,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/babaralijamali/python-crud-app-cli.git
 cd python-crud-app-cli
+python crud_cli.py
